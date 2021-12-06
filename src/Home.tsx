@@ -280,7 +280,7 @@ const Home = (props: HomeProps) => {
                 <Container maxWidth={'lg'} className={styles.header}>
                     {/*     Left Heading*/}
                     <div>
-                        <a href="" className={styles.heading}>
+                        <a href="https://pitcrewnft.com" className={styles.heading}>
                             PIT CREW
                         </a>
                     </div>
